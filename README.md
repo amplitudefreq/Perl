@@ -1,2 +1,2 @@
 # Perl
-Customizable scripts based on 
+Customizable scripts based on Perl
