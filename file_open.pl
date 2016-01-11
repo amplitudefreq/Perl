@@ -5,7 +5,7 @@
 use strict;
 use warnings;
 
-print "File name: ";
+print "Input file name: ";
 my $name = <STDIN>;
 chomp($name);
 
